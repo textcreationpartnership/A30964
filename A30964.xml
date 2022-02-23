@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speeches and prayers of John Barkstead, John Okey, and Miles Corbet together with severa[l] passages at the time of their execution at Tyiburn [sic], the nineteenth of April, 1662, with some due and sober animadversions of the said speeches.</title>
+            <title>Selections. 1662</title>
+            <author>Barkstead, John, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30964</idno>
+            <idno type="STC">Wing B816</idno>
+            <idno type="STC">ESTC R305</idno>
+            <idno type="EEBO-CITATION">12304731</idno>
+            <idno type="OCLC">ocm 12304731</idno>
+            <idno type="VID">59215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 199:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speeches and prayers of John Barkstead, John Okey, and Miles Corbet together with severa[l] passages at the time of their execution at Tyiburn [sic], the nineteenth of April, 1662, with some due and sober animadversions of the said speeches.</title>
+                  <title>Selections. 1662</title>
+                  <author>Barkstead, John, d. 1662.</author>
+                  <author>Corbet, Miles, d. 1662. Selections. 1662.</author>
+                  <author>Okey, John, d. 1662. Selections. 1662.</author>
+               </titleStmt>
+               <extent>[3], 4, [8], 15-23, [8], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Brook ... and Edward Thomas ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Irregular pagination.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59215:1" rendition="simple:additions"/>
+            <p>THE SPEECHES AND PRAYERS Of
+<list>
+                  <item>JOHN BARKSTEAD,</item>
+                  <item>JOHN OKEY, and</item>
+                  <item>MILES CORBET.</item>
+               </list>
+            </p>
+            <p>Together with ſevera paſſages at the time of their Execution at TYIBURN, the nineteenth of <hi>April,</hi> 1662.</p>
+            <p>With ſome due and ſober ANIMADVERSIONS On the ſaid SPEECHES.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathaniel Brook</hi> at the Angel in Cornhill, and <hi>Edward Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in Little-<hi>Brittain,</hi> 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59215:2"/>
+            <head>To the Reader.</head>
+            <p>THis is to aſſure thee, that firſt there is not a ſyllable to the beſt of the writers skill that took theſe Speeches at the place of Execution, either added or deminiſhed in the tranſcript, either in favour or injury to the Dead; ſecondly, that as they are faithfully communicat<g ref="char:EOLhyphen"/>ed, ſo are they methodically digeſted for the better underſtanding and greater eaſe of the Reader, with the intervenient diſ<g ref="char:EOLhyphen"/>courſes and paſſages; and thirdly, that they do not carry in them any dange<g ref="char:EOLhyphen"/>rous or treaſonable reflects upon the Go<g ref="char:EOLhyphen"/>virnment, that might prejudice them publsihing, and give cauſe to their friends if they had not been brought to light, to ſuppoſe there were ſome notable things
+<pb facs="tcp:59215:3"/> in them which the Times would not in<g ref="char:EOLhyphen"/>dure. It is wiſhed that the diſaffected people would comport themſelves ſo in their lives as theſe men ſeem to inſtruct them here at their their deaths. There<g ref="char:EOLhyphen"/>fore for the uſe and benefit ſake which may redound to the Nation hereby, it is thought good to produce them to light and conſerve the only memories of theſe men, famous for their Time and Places. For further ſatisfaction there are alſo ad<g ref="char:EOLhyphen"/>ded ſome ſober Notes and Animad<g ref="char:EOLhyphen"/>verſions on the ſaid Speeches, which are together, here offered to thy peruſal. Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speeches">
+            <pb facs="tcp:59215:3"/>
+            <head>
+               <hi>SPEECHES AND PRAYERS OF</hi> John Barkſtead, John Okey, <hi>and</hi> Miles Corbet.</head>
+            <p>VPon <hi>Aprill</hi> 19. 1662. being the day appointed for the Execution of <hi>John Barkſtead, John Okey,</hi> and <hi>Miles Corbet,</hi> who were drawn on three ſeve<g ref="char:EOLhyphen"/>ral Hurdles from the Tower to Tyburn, <hi>Barkſtead</hi> was firſt brought to the the place of Execution, then <hi>Okey,</hi> and then <hi>Miles Corbet,</hi> who mounted a Cart which was
+<pb n="2" facs="tcp:59215:4"/> prepared for them to ſtand in whileſt they ſpake to the people.</p>
+            <p>The firſt that aſcended the Cart was <hi>Barkſtead,</hi> as ſoon as he was in he lifted up his eies to Heaven, and ſaid, Bleſſed be God (the Executioner having put the Rope about his neck, and faſtned it to the Gallowes) he then ſate down upon the ſide of the Cart: After a little ſpace, the Sheriff ſaid, Colonel <hi>Barkſtead,</hi> I am com<g ref="char:EOLhyphen"/>manded not to ſuffer you to ſpeak any thing in juſtifi<g ref="char:EOLhyphen"/>cation of that horrid Act for which you come here to ſuffer.</p>
+            <p>
+               <hi>Barkſtead.</hi> I cannot ſpeak much, by reaſon of the weak<g ref="char:EOLhyphen"/>neſs of my body; I deſire to get as much refreſhment as I can before I ſpeak.</p>
+            <p>Some while after my Lord of <hi>Newport</hi> looking upon the Priſoner, and ſmiling at him, ſaid, <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r wel</hi> Colonel <hi>Barkſtead, farewel.</hi>
+            </p>
+            <p>
+               <hi>B.</hi> You are a Gentleman I am ſure, I bleſs God I can ſay Death is not terrible to me, and that is onely through Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            <p>
+               <hi>Executioner.</hi> You may go on with your prayers.</p>
+            <p>
+               <hi>B</hi> I deſire to ſee my Brethren.</p>
+            <p>
+               <hi>Sher.</hi> Sir, are you ſorry for the Fact for which you are brought here to ſuffer?</p>
+            <p>
+               <hi>B.</hi> J ſhall be ſorry for every thing that is a ſin, when the Lord ſets home that to me, J ſhall be ſorry before God and men; this muſt be from God alone. Then he drank a little Cordial, and ſaid, J bleſs God J have a better Comforter than this.</p>
+            <p>Then a gentleman ſaid, Sir, you had me once a pri<g ref="char:EOLhyphen"/>ſoner.</p>
+            <pb n="3" facs="tcp:59215:4"/>
+            <p>
+               <hi>B.</hi> Then I hope I uſed you civilly, if I have not, I beg forgiveneſs, as freely as I forgive all men: I bleſs God I have an aſſurance through Jeſus Chriſt to be happy. One ſtanding by ſaid, I Sir, that may be within half an hour.</p>
+            <p>
+               <hi>Barkſtead</hi> being asked by a perſon of quality, whether he were not troubled, anſwered,</p>
+            <p>
+               <hi>B.</hi> Sir, <hi>I</hi> bleſs God <hi>I</hi> have no more trouble at this minute upon my ſpirit, then <hi>I</hi> had upon my wedding<g ref="char:EOLhyphen"/>day.</p>
+            <p>The other two Priſoners being taken out of the Sledges, and brought into the Cart, <hi>Okey</hi> preſently embraced <hi>Barkſtead,</hi> and kiſsed h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, and being about to ſpeake, one of the Sheriffs ſaid to him, Sir, <hi>I</hi> muſt not permit you to ſpeake any thing in juſtification of that horrid Act for which you are brought here to ſuf<g ref="char:EOLhyphen"/>fer.</p>
+            <p>
+               <hi>Okey.</hi> Sir, <hi>I</hi> muſt not lye for God, much leſs for you: J hope you will give me leave to ſpeake what lies upon my Conſcience, if asked whether guilty or not guilty.</p>
+            <p>
+               <hi>Sher.</hi> Are you ſorry?</p>
+            <p>
+               <hi>Okey.</hi> J hope J may ſpeak what lyes upon my Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Soon after Colonel <hi>Okey</hi> ſtanding up in the Cart,<note place="margin">Shewing a great deal of modeſty and reſolution in his department.</note> and looking upon the people, ſpake as followeth.</p>
+            <p>
+               <hi>Okey.</hi> Mr. Sheriffs and Gentlemen, the Providence of God hath brought me hither to ſuffer; J ſhall not trou<g ref="char:EOLhyphen"/>ble you with that which J look upon me as ſuperfluous, which is to tell you my Family, which of all the Fa<g ref="char:EOLhyphen"/>milies
+<pb n="4" facs="tcp:59215:5"/> in <hi>Iſrael</hi> is one of the leaſt, and I the leaſt of that Family: It is not unknown to many here, who hear me this day, how I was called forth to ſerve God and my Countrey, upon the ſervice of the King and Parliament: I ſerved them faithfully to the beſt of my knowledge: I bleſs God, when I was called to the work, I was perſwaded it was for the glory of God, and good of his people; and had I had as many lives as hairs on my head, I would have adventured them in that Cauſe. I have nothing upon me as to that; I am ſatisfied as to the Cauſe: As the Parents of him that was born blind, being asked how he came to his ſight, ſaid, He is of age, let him ſpeak for himſelf; ſo ſay I.</p>
+            <p>That which I have been adjudged for, is the death of the late King; I think moſt of you know I was none of the Councel that contrived it; neither did I know any thing till I ſaw my Name inſerted in a Paper: I ſate but once or twice; but for malice or envy I never had any, but prayed for him to the laſt hour: What aims others had, time did diſcover; I have nothing upon my Spirit for that: I have many hundred times, not onely ſince I went out of <hi>England</hi> (which is about two years) but many times be<g ref="char:EOLhyphen"/>before begged, that if I had any mali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or hatred in my heart, that God would make me ſenſible of it, and I would confeſs it to God, and before you all. What other men aimed at, I can ſay nothing to that; there were ſome, as it did appear, had ſelf-ends; I never got any thing by i, I was advanced to the Dignity of a Colonel before that: I thank the Lord <hi>I</hi> have no trouble upon me for that.</p>
+            <pb facs="tcp:59215:5"/>
+            <p>A great diſturbance being amongſt the People he cea<g ref="char:EOLhyphen"/>ſed ſpeaking for a while, then the Sherriffs ſaid to him, Sir you may go on.</p>
+            <div type="speech">
+               <head>Okey.</head>
+               <p>As I told you before, ſo I ſay again, there is no guilt upon my ſpirit, which makes me the more com<g ref="char:EOLhyphen"/>fortable at this hour: I take this as the juſt and righteous hand of God for my unworthy walking, for my not be<g ref="char:EOLhyphen"/>ing more zealous for God and his People, and for many other Iniquities, for which I deſire to adjudge my ſelf, and acquit the Lord. I thank God I have peace within, through the riches of his Grace, that hath dyed for me. (applying himſelf to the Sheriffs) you ſee we have had many troubles, and much blood hath been ſhed, and there was a vacancy as to a Single Perſon a great while, how it then was time ſhewed. The Nation earneſtly de<g ref="char:EOLhyphen"/>ſired him who now Raignes, which I wiſh with my Soul may raigne gloriouſly for ever: And now the Nation hath that mercy ſo greatly deſired, I wiſh they may make a right improvement of it, and walk in ſome mea<g ref="char:EOLhyphen"/>ſure anſwerable to ſo great a Mercy.</p>
+               <p>I would beg this as the laſt boon of a dying man, that as they have received a mercy ſo exceeding great, they would walk worthy of it, by a fruitful improvement, and for you Gentlemen (turning to the Life Guard) and others, I beg that you would Pray more and Swear leſs: were you beyond Sea as I lately have been, and ſaw and heard what report <hi>England</hi> hath, notwithſtanding they
+<pb facs="tcp:59215:6"/> have received the mercy they ſo much longed for, it would make your hair ſtand on end, and your Hearts to tremble to think what would be the iſſue; if it be true that Prophaneneſs is grown to ſuch a height, (as I hear it is) this Nation cannot ſtand three years to an end; I de<g ref="char:EOLhyphen"/>ſire it may flouriſh an hundred fold more then ever it did, As <hi>England</hi> hath had more Glory and Honour than any other Nation, ſo I deſire that Peace and Plenty may abound, that every man may ſtudie in his place to fear God, and Honour the King, and to walk in ſome mea<g ref="char:EOLhyphen"/>ſure anſwerable to thoſe mercies they now enjoy, that having the mercy they ſo much deſired, every man may walk worthy of the Goſpel, that Righteouſneſs and Peace may flouriſh in the midſt of them.</p>
+               <p>I would not offend you, therefore I ſhall forbear to ſay what otherwiſe I would.</p>
+               <p>For the Indictment I would have abhorred it, if there had not been a face of Authority, I have Peace as to that, and to all other my ſins through the rich Grace of God.</p>
+               <p>The cauſe we took up the ſword for, was for Righte<g ref="char:EOLhyphen"/>ouſneſs, Juſtice and Equity. I am afraid the blood that hath been ſhed, hath not thoſe returns for which the War was begun. I leave this to all my Bretheren, that they would wait in their places, and ſee the Salvation of God, rather then deliver themſelves by any indirect means. If his Majeſty had given me my life, or had I come in with the reſt of the Members I would have lived quietly, and rather ſuffered, then done any thing againſt the known Law, I would rather have ſuffered then taken
+<pb facs="tcp:59215:6"/> indirect waies, If it may ſtand for Gods Glory He will deliver his People: The way to be delivered is to waite and ſee the Salvation of God: I declare this, I am for Magiſtracy and Miniſtry, notwithſtanding it hath been reported otherwiſe, I ſhall conclude all with this, that it is my hearty deſire, that Juſtice and Judgment may run through our Streets as a mighty ſtream, and that God would ſcatter them that delight in war.</p>
+            </div>
+            <div type="speech">
+               <head>Miles Corbet.</head>
+               <p>I hope I ſhall not ſpeak any thing that may give any juſt offence, (one ſtanding by ſaid, ſpeak a loud; the Priſoner replied, would God I could) We are now dying men, and I declare in the preſence of the great God to whome we are now going, that I deſire to ſpeak without feate as touching that, that we are come to ſuf<g ref="char:EOLhyphen"/>fer for, both in levying the Warr, and that particularly for which we ſuffer.</p>
+               <p>Had it not been done by Authority it had been abo<g ref="char:EOLhyphen"/>minable. The Authority it was done by was the Parli<g ref="char:EOLhyphen"/>ament: I deſire not to diſpute that Authority ſeing it may give offence, yet the Nation was governed by it; other Nations owned it, the word is upon my heart, men may judge, and they may make it no Law, God is our judge, and he will judge this Cauſe, and our caſe. God is a Law-maker, he is our King and he will ſave us, he will judge the Cauſe of his people, and <hi>I</hi> hope the minds of ſober men will wait for that day. (Then ap<g ref="char:EOLhyphen"/>plying himſelf to the Sheriffs) Mr. Sheriffs concerning
+<pb facs="tcp:59215:7"/> that which was layed upon us that we are againſt Magi<g ref="char:EOLhyphen"/>ſtracy and Miniſtery, I deſire to declare it to be our judge<g ref="char:EOLhyphen"/>ments that we are for both, I deſire his Majeſty that now is as he rules from God, may rule for God, be a countenancer of thoſe that do well, and a diſcountenancer of thoſe that do ill, &amp; countenance the true Religion, &amp; the profeſſors of it; there have Sects and Hereſies riſen in our days, but God hath appeared againſt them; much light hath bro<g ref="char:EOLhyphen"/>ken forth in this Nation, and doth break forth, Religi-is more profeſt here, then in any other Nation beſides.</p>
+               <p>My deſire and prayer is, that the Goſpel of our Lord and Saviour Jeſus Chriſt may have a free courſe in this Nation, and may be glorified by the lives of men.</p>
+               <p>For the particular way, that I have walked in, and which I declare in my judgement, and believe in my Conſcience to be the neareſt to the word of God, is the Congregational way.</p>
+               <p>VVe are taking our leaves of you, we ſhall ſee your fa<g ref="char:EOLhyphen"/>ces no more, I begg upon the knees of my ſoul, that as you profeſs Religion you would walk worthy of the ſame profeſſion.</p>
+               <p>VVhen I hear of that profaneneſs that doth abound, I tremble to think what will become of <hi>England.</hi>
+               </p>
+               <p>The Lord ſtop the progreſs of Popery, and Superſtition, that we may love the Goſpel, and the true profeſſors thereof more and more, that God may love us, and we one another more.</p>
+               <p>For my own part if there were any here whom I knew I had wronged I would aske them pardon, if I knew them.</p>
+               <pb facs="tcp:59215:7"/>
+               <p>I have been in all the Parliaments in the late Kings Reigne, being called thither, I thought it my Duty to Act, for God and my Country according to my Conſcience.</p>
+               <p>VVhen I was firſt called to ſerve in Parliament, I had an Eſtate, I ſpent it in the ſervice of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>For this for which we are to Dye, I was no contri<g ref="char:EOLhyphen"/>ver of it; when the buſineſs was motioned, I ſpoke a<g ref="char:EOLhyphen"/>gainſt it, but being paſt in Parliament I thought it my Duty to obey.</p>
+               <p>I never did ſit in that which was called the High Court of Juſtice but once, I do not come hither to Juſtifie that, neither would I ſpeak that which may offend others.</p>
+               <p>I never bought any Kings or Biſhops Lands, I thought I had enough, at leaſt I was content with it, that I might ſerve God and my Country was that I aimed at,</p>
+               <p>It is the honour of Proteſtants to be obedient to known Laws, I have little to ſay more, only as I came a long I obſerved the tongues of ſome to be a<g ref="char:EOLhyphen"/>gainſt me, I pray God forgive them.</p>
+               <p>Others expreſt their Love to my Soul, I hope God
+<pb facs="tcp:59215:8" rendition="simple:additions"/> will hear their Prayers. In the peace of our Nation we are to rejoice, privat intereſts ſhould give way to publick.</p>
+               <p>I deſire from my very ſoul to forgive every man. (I deſire if I have wronged any man that they will for<g ref="char:EOLhyphen"/>give me) particularly the Court that paſt Sentence up<g ref="char:EOLhyphen"/>on me, I forgive them, both Judge and Jury, I think they did acording to their places. <hi>I</hi> commend you all to God. Farewell.</p>
+               <p>
+                  <hi>Corbet</hi> having ended his ſpeech Coll. <hi>Okey</hi> ſpake further.</p>
+            </div>
+            <div type="speech">
+               <head>Okey.</head>
+               <p>Gentlemen as God hath given us of this Nation ſuch Miniſters as neither are nor have been in any other Nation (that I know or have read of) I cannot but begg of God that ye may all walk worthy of them.</p>
+               <p>I was ſixteen years in the Army I do not know whoſe Oxe or whoſe Aſs I took away (whom <hi>I</hi> have wrong<g ref="char:EOLhyphen"/>ed) if I have wronged any <hi>I</hi> heartily begg theer for<g ref="char:EOLhyphen"/>giveneſs, not knowing whom I have wronged, if any one hath wronged me <hi>I</hi> do the ſame, particular<g ref="char:EOLhyphen"/>ly my Chaplaine who purſued my life to the Death, <hi>I</hi> forgive both Judge and Jury, and all others, and
+<pb facs="tcp:59215:8"/> thoſe of <hi>Holland</hi> who did that which they engaged not to do, I pray that our Blood may not be layd to any ones charge.</p>
+            </div>
+            <div type="speech">
+               <head>Barkſtead.</head>
+               <p>Mr. Sheriff, I would not willingly ſpeak any thing that ſhould give offence, my weakneſs being ſuch that I cannot ſpeak much, but were I able, I ſhould but ſpeak over again what my Brethren have ſpo<g ref="char:EOLhyphen"/>ken before. As to the Cauſe (I hope I may ſpeak it without offence) God hath owned it, I confeſs I ingaged very farr in it, being cho<g ref="char:EOLhyphen"/>ſen by them to Matters of great Truſt, <hi>I</hi> bleſs God <hi>I</hi> was Faithfull to them whom <hi>I</hi> Ser<g ref="char:EOLhyphen"/>ved.</p>
+               <p>Before <hi>I</hi> came hither I begged of God that he would pardon all my Sins, which through Mer<g ref="char:EOLhyphen"/>cy and Grace I truſt he hath done, otherwiſe I could not have ſtood here with ſo much Com<g ref="char:EOLhyphen"/>fort as <hi>I</hi> do: where God ſpeaks Peace, none can ſpeak War or trouble.</p>
+               <p>I conceive it is not proper to give an account of my faith, otherwiſe I would; only in the general I declared, the way I have walked in, and which I own, is the Congregational way, in which I have found much Comfort. I would be glad that they
+<pb facs="tcp:59215:9"/> which walke in that way, and all others would walk more anſwerable to that great Goſpel mercy, I do not know any place in the World where it is ſo perfect as in <hi>England,</hi> would to God we had hearts to walk worthy of that Mercy.</p>
+               <p>As to the Government as it now is, I have, and will ſo long as I have breath pray for it, and that the Lord would give the King a wiſe and underſtanding heart to Reigne for God, and that he may Reigne in glory hereafter.</p>
+               <p>As to the people my deſire is that God would make them all of one minde, that is the work of the Lord, and in his time he will do it: <hi>I</hi> ſpeak the rather of this becauſe there hath formerly been ſomthing done by me for which I am ſorry. I do deſire that all that fear the Lord, would love God, and one another more The work of the people of God in this day is to ſit ſtill, for the Lord will do his own work in his own time; we have had experience of it, I muſt own it.</p>
+               <p>
+                  <hi>I</hi> am ſorry my ſtrength will not ſuffer me to ſpeak more as to this, my weakneſs hath been long upon me as many know. (Then looking upward he ſaid) Thine is the Kingdome, the Power, and the Glory O Lord. Thou haſt been giving the Kingdomes of the Earth to Jeſus Chriſt, he ſhall Reigne: His Majeſty to Reigne under him is no diſhonour, it is my deſire that they all would live peaceably under him.</p>
+               <pb n="15" facs="tcp:59215:9"/>
+               <p>As for that for which we come to ſuffer, I can ſay, I was no Contriver of it, within nor without; at that time I was many miles from the place, and did not know of it until I ſaw my Name in a Paper, I being put in by the Authority that then was, which then was looked upon as a good Authority: What I did, I did without any malice. I did pray for him from my very ſoul.</p>
+            </div>
+            <div type="speech">
+               <head>OKEY.</head>
+               <p>It is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> onely our Judgments now, but was our Practice beyond the Sea's, to ſhun even our own Country-men; becauſe we would not have any thing to do with any affairs in <hi>England,</hi> I may ſay as S. <hi>Paul</hi> in another caſe; <hi>They neither found us in the Temple diſputing, neither raiſing up the People, neither in the Synagogues, nor in the City;</hi> We medled not with the Government.</p>
+            </div>
+            <div type="speech">
+               <head>CORBET.</head>
+               <p>Having done ſpeaking to Men, we deſire to ſpeak to our God, he muſt help us, and give us his own Spirit; it is no eaſie matter to pray, we may eaſily ſay Prayers, but to pray by the Spirit is a hard work, we muſt have ſtrength from God to do it.</p>
+            </div>
+            <div type="prayer">
+               <head>
+                  <hi>CORBET'S</hi> Prayer.</head>
+               <p>OH Lord our God, our dear and heavenly Fa<g ref="char:EOLhyphen"/>ther, thou that art the great and mighty God, the God of glory; all the Nations of the Earth are unto thee as the drop of the Bucket, and as the ſmal duſt of the Ballance; Oh Lord what are we, ſinful
+<pb n="16" facs="tcp:59215:10"/> duſt and aſhes? Look upon us in our Lord Jeſus the great Mediatour, we deſire to come to thee in the name of that bleſſed Redeemer, we pray thee ac<g ref="char:EOLhyphen"/>cept of us through him; Oh that we may come to the Throne of Grace, and obtain mercie with thee, and find grace and help in this time of need. Truly Lord, it is a day of miſery to thy poor worms; we are deſpiſed of men, we are condemned of men, as being not worthy to live upon the Earth; thou mayſt alſo juſtly condemn us, and then woe would be to us: But, Oh Lord! forgiveneſs belongs to thee, mercy belongs to thee, we acknowledge our iniquities be<g ref="char:EOLhyphen"/>fore thee; againſt Thee, Thee onely have we ſinned; our iniquities are gone over our head<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, they are a bur<g ref="char:EOLhyphen"/>then too heavie for us to bear. We deſire to bewail our Goſpel ſins, our barrenneſs under the means of grace, our unthankfulneſs for thoſe glorious appea<g ref="char:EOLhyphen"/>rances of thy ſelf in theſe Nations: Oh, we have held thy truth in unr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghteouſneſs, we deſire to be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ail our ſins againſt right, and love, and mercie: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough we have profeſt the Goſpel of Chriſt, where <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath been that love to it which ought to have been? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here hath been that fruitfulneſs that ſhould have <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en amongſt us? We deſire to be humbled for our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amily-ſins, our perſonal ſins, the ſins of our callings, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at thou God calledſt us unto.</p>
+               <p>Oh our God! thou art juſt and righteous in all thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haſtiſements; we deſire to humble our ſelves, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cover our faces with ſhame here in thy preſence: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o unto us becauſe we have ſinned againſt thee: Are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere not mercies with thee that thou maiſt be feared? <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h the ſins of every one of us<g ref="char:punc">▪</g> and particularly, the
+<pb n="17" facs="tcp:59215:10"/> multitude of the ſins of thy poor worm that ſp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s to thee! Yet Lord, was not Jeſus Chriſt made ſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>? Where ſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, there is ſhame, death and a curſe. H<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> not he born our ſins, and our ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and carried our ſorrow? Thy poor Worms are a ſhame in the eyes of men; Jeſus Chriſt he was deſpiſed and rejected of men; he ſuffered the bitterneſs of death, he poured out his ſoul to death; it pleaſed thee to put him t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death: He hath born our ſins, (oh Lord) the cha<g ref="char:EOLhyphen"/>ſt ſement of our peace was upon him: We deſire thou wouldſt lay our ſins upon him the onely true Scape-Goat: We deſire through his blood we may be pardoned; for by one offering he is able to ſave all that come to him. We deſire to lay hold of his Me<g ref="char:EOLhyphen"/>rit, and of that full ſatisfaction he hath made to thy Juſtice for ſinners: He that knew no ſin, was made ſin, he dyed that we might live. Oh accept of his ſatisfaction for us; and as he is riſen and aſcended up to thy right hand, and even lives to make interceſsion for us, that was the Blood o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, God-Man; he di<g ref="char:EOLhyphen"/>ed, that we might live; he bore thy wrath, that we might be delivered from wrath. Oh God, thou God of Mercy, ſhew mercy to the Souls of thy poor crea<g ref="char:EOLhyphen"/>tures, for thy Mercies ſake, and to the Souls of all this great Aſſembly: Chriſt he died but once, yet he ever lives to make interceſsion for ſinners. O there, there is comfort for poor ſinners, that the great Mediator him thou heareſt alwayes, O now, now, now; and accept of us; we make our requeſt known to thee; it is pardoning mercy we ſeek; we believe, Lord help our unbelief. O come and ſprinkle our ſouls with his precious blood, that we may ſtand before thee in his
+<pb n="18" facs="tcp:59215:11"/> Righteouſneſs: Thou haſt made him our righteouſ<g ref="char:EOLhyphen"/>neſs, O cover us with the Robe of his Righteouſneſs, that we be not found in our own Righteouſneſs, that we may be preſented before thee as having neither ſpot nor wrinkle. Thou haſt made him our King, come and tread his Enemies under his F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; he hath condemned ſin, he took the likeneſs of ſinful fleſh, and in that likeneſs condemned ſin in the fleſh: O that through him we might ſtand righteous in thy ſight. Thou haſt ſet before us the hopes of eternal life, which thou haſt promiſed to give to all thoſe that love thee: Thou haſt ſaid, we ſhall reign with thee; we flie to thee in this day of our diſtreſs: Oh that we might have ſtrong conſolation. Seeing thou haſt confirm<g ref="char:EOLhyphen"/>ed thy promiſe with thy oath, O make good that to all of us; ſay to us, We are thine, though we are de<g ref="char:EOLhyphen"/>ſpiſed Worms: Lord, do thou ſpeak peace to us, and we ſhall have peace. Thou alone giveſt true peace; this is onely given by our dear Lord Jeſus himſelf. O come and comfort our hearts with thy love; Lord, let thy Banner over us be Love; thou doſt not deſpiſe the afflictions of the afflicted. We bleſs thy Name for that we are able to bear witneſs of thy faithfulneſs, mercy and goodneſs, before this great Congregation, and this great City. Thou haſt been good to us, do not leave us; Thy poor Worms are now to go through a great ſtorm, O that we may find thy ſtrength enabling us in this great Work. O that we may find Death a paſſage to Life: VVhen our Souls are coming to thee, give thy Angels charge over us; Let freſh-ſprings come from Jeſus Chriſt at this time, if it ſeem good to thee. Let us hear thoſe
+<pb n="19" facs="tcp:59215:11"/> joyful tydings, ſaying, <hi>Come ye bleſſed of my Father, inherit the Kingdom prepared for you:</hi> Though ſome deſpiſe us, we deſire to bleſs thy Name that we are not deſpiſed of thee; Lord pardon their ſins. There is a Crown of Life laid up for thoſe that fear thee. VVe deſire to love thee for thy Chaſtiſements. Let our cry pierce the Heavens. We come in hopes of the appearance of Jeſus Chriſt: He that ſhall come, will come, and will not tarry; Lord Jeſus come quickly. Thy Servant <hi>Stephen</hi> ſaw the Heavens open<g ref="char:EOLhyphen"/>ed, and Jeſus Chriſt ſitting at thy right hand; though we cannot ſee thee with our bodily eyes, oh that we could ſee thee by the eye of faith; we pray thee let not that fail. O that thou wouldſt ſtrengthen us withs all Might in this hour, without thy ſtrength our heartr and our fleſh will fail us. Thou art the God of ous ſtrength, come and ſave us; let thine everlaſting armn be under us. We pray thee Lord, let us ſee thee ir mercy, do not correct us in wrath: We are unde. the wrath of men, good Lord do thou forgive them Lay no more upon thy poor Worms then thou wilt enable them to bear: Our Fore-runner is gone before us, O that we may follow him; accept of us in him.</p>
+               <p>The Lord bleſs this Nation; continue thy goſpel; thy goſpel is the glory of this Nation, let thy people glorifie that goſpel; and do thou prevent thoſe hea<g ref="char:EOLhyphen"/>vy Judgements that hang over it. Pardon the great ſin of the prophanation of thy day, which is ſo gene<g ref="char:EOLhyphen"/>ral throughout the Nation. Continue thy goſpel in power and purity: The Lord forgive the ſins of thoſe that bear thy Name. Thy wrath is ki<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us, but do not thou deſtroy us, Heal our backſli<g ref="char:EOLhyphen"/>dings,
+<pb n="21" facs="tcp:59215:12"/> give a ſpirit of love to them, that they may love one another: Take away the enmity that is be<g ref="char:EOLhyphen"/>tween <hi>Ephraim</hi> and <hi>Judah:</hi> Let thy people be of one mind and of one heart. Prevent the growth of Po<g ref="char:EOLhyphen"/>pery and Superſtition. Shew mercy to the Kings Ma<g ref="char:EOLhyphen"/>jeſty, whom thou haſt ſet over us; O that he may rule for thee, as he rules from thee, that his Throne may be eſtabliſhed in Judgement. The Lord bleſs all thy faithful Miniſters, and continue them to thy people, encreaſe their gifts and graces.</p>
+               <p>And now O Lord we commit our ſelves to thee; we are coming, Lord meet us; take us into thy arms. What ever elſe thou knoweſt needful<g ref="char:punc">▪</g> and neceſſary for us, thy Church, and all the Iſrael of God, we beg in the Name, and for the ſake of Jeſus Chriſt.</p>
+            </div>
+            <div type="prayer">
+               <pb n="22" facs="tcp:59215:12"/>
+               <head>
+                  <hi>OKEY'S</hi> Prayer.</head>
+               <p>
+                  <hi>MOſt Holy, Glorious, and Eternal Lord God, who art the bleſſed Maker of all things, who art from ever<g ref="char:EOLhyphen"/>laſting to everlaſting, bleſſed for ever<g ref="char:EOLhyphen"/>more; thou art worthy to be praiſed from the riſing of the Sun, to the going down thereof; thou art cloathed with Honor and Majeſty as with a Garment; thou art the Fountain of all good, the Well<g ref="char:EOLhyphen"/>ſpring of Life and Happineſs: We bleſs thy Name that thou haſt been pleaſed to give us this opportunity once more to pour out our ſouls before thee, before we go hence and be no more ſeen. For Chriſt's ſake (thou that haſt put a price into our hands) give us hearts to im<g ref="char:EOLhyphen"/>prove it; enable us to pour out our ſouls before thee at this time: Draw nigh to
+<pb n="22" facs="tcp:59215:13"/> in, that we may draw nigh to thee. O Lord! we pray thee for Chriſt's ſake give us the Spirit of VViſdom, <g ref="char:V">Ʋ</g>nderſtanding and Knowledge, whereby we may be en<g ref="char:EOLhyphen"/>abled to come to thee; in the Name of Jeſus Chriſt we beg a ſupply of all our wants, humbly beſeeching thee for his ſake to ſhew mercy to us: Do not remem<g ref="char:EOLhyphen"/>ber againſt us what we have done a<g ref="char:EOLhyphen"/>gainſt thee: VVe pray thee for Jeſus Chriſt his ſake blot out our iniquities, let none of our nakedneſs appear; cover us with the Robes of his Righteouſneſs; ſpeak peace to our ſouls. O ſeal to us the aſſurance of the pardon of all our ſins; O ſeal to us the aſſurance that thou loveſt us, &amp; then it ſhal go wel with us. Pour upon us t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y holy Spirit, that he may teach us how to pray acceptably.</hi>
+                  <pb facs="tcp:59215:13"/> Let us ſee our Names written in the Lambes book of Life: O waſh us in his Blood, which is able to take take away all our Sinnes of what nature or kind ſoever. O Lord we beſeech thee receive us into thy everlaſting Armes of Mercy. O that thou wouldſt let us ſee by the eye of Faith Heaven opened, and the Lord upon his Throne, and Jeſus Chriſt at thy right hand, and his holy Angels ready to receive our Souls. We be<g ref="char:EOLhyphen"/>ſeech thee be with us: it is but a little time that we are to be here, O leave us not; ſhew us mercy only in and upon the account of Jeſus Chriſt. With us bleſs thine all the World o<g ref="char:EOLhyphen"/>ver, think upon theſe Nations of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland,</hi> O that they may live in thy ſight, that <hi>England</hi> may be a happy, peaceable and quiet Nation; give the Nation of <hi>England</hi> a heart to walk anſwerable to the Goſpel which they have ſo long enjoyed, that it may be a Na<g ref="char:EOLhyphen"/>tion fruitfull in all good works, and more zealous than ever it hath been yet; remove the judge<g ref="char:EOLhyphen"/>ments felt, prevent the judgements feared. To this end we beſeech thee bleſſe Him whom thou haſt ſet over us, we begg that he may live in thy ſight, and Reign here for thee, and Reign here<g ref="char:EOLhyphen"/>after with thee: O Lord make Him a Friend to thy Friends, let Him ſee that His Intereſt lyeth there. Bleſſe the Great Councell of the Land, the Lord guide them and direct them, that they may do nothing againſt thy Truth. The Lord bleſſe the faithfull Miniſters of the Word, O that thou would double thy Spirit upon them, and let
+<pb facs="tcp:59215:14"/> not thy Judgement come upon this Nation, that the Godly faithfull Miniſters ſhould be driven or removed out of it; O do not bring a famine of thy Word whatever Judgement thou bringeſt upon this Nation. We humbly begg that Po<g ref="char:EOLhyphen"/>pery may not return hither again. We begg for thy Names ſake that thou wouldſt look in mercy upon this great City, and as thou haſt made them famous for Religion, and owning the Profeſſors thereof, the Lord grant that they may not decline, but increaſe more and more therein, the Lord give them the Bleſſings of the Right Hand and of the Left, that they may dwell toge<g ref="char:EOLhyphen"/>ther in Love, Unity and Peace. The Lord look upon any that is near and dear to us, our dear Re<g ref="char:EOLhyphen"/>lations, we leave them with thee, Lord do thou take care of them, and provide for them, accord<g ref="char:EOLhyphen"/>ing to that good Promiſe which thou haſt made. Now we beſeech thee Lord accept of us and our Services, pardon the ſins of our holy things, our wandering and ſtarting aſide from thee: accept, of us, and do us good, and receive us into the arms of thy mercy. This and whatever elſe thou ſeeſt in thy Wiſedom to be good for us, we begg in the name, and for the ſake of Ieſus Chriſt, to whom be honour and glory and praiſe both now and for evermore. <hi>Amen.</hi>
+               </p>
+               <p>After he had done he gave the Sheriffs thanks for their Civilities to them.</p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:59215:14"/>
+               <head>BARKSTEADS Prayer.</head>
+               <p>O Eternal and ever bleſſed Lord God, thou who ſitteſt upon the higheſt Heavens, and haſt the Heavens for thy Throne, and Earth for thy Foot-ſtool, we are here by thy Providence brought to this place, in which we bleſſe thee, and for which we bleſſe thy name: we bleſſe thy name that thou haſt kept us hitherto, that thou haſt preſerved us thus long, that thou haſt given us peace and pardon: (forgive to us the iniquities of our holy things) that thou haſt enabled us to own thee. Remember the Nation where wee live, the Lord bleſſe the Kings Majeſty, and make him to Rule for thee, to the Comfort of all that fear thy Name. Look in mercy upon all that fear thy name, make them of one mind
+<pb facs="tcp:59215:15"/> and of one heart; Let them ſeek peace and purſue it. Advance the Kingdome of Ieſus Chriſt that is comming, and will come. Carry forth the Spirits of thy People to honour thee more, and love one another more. Re<g ref="char:EOLhyphen"/>member the Relations of thy poor Creatures, Doe good to them that wee leave, we leave them in the aſſurance of the Faithfullneſſe of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> promiſe, Thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt ſaid, Leave your Fa<g ref="char:EOLhyphen"/>therleſſe Children to me, and I will keep them alive, and provide for them, and let your Wid<g ref="char:EOLhyphen"/>dowes truſt in me.</p>
+               <p>We deſire that thou, wouldeſt pardon all that have done us wrong, we freely and fully forgive them, and begg that thou wouldeſt doe ſo too, whether in <hi>ENGLAND,</hi> or elſewhere. Shew kindneſſe to thoſe who have ſhewed kindneſſe to us. Look in Mercy upon the Magiſtrates here preſent, pardon the Sinns of him who is appointed our Executioner, he that is to waſh his Hands in our Bloud, lay not our Bloud to his charge, nor to any ones elſe. We leave our Selves with thee, we bleſs thee for thy Mercies to us at this Hour, that Death is not terrible to us, that thy poor Creatures can in truth ſay, There is no trouble of Soul upon us. Wee begg fur<g ref="char:EOLhyphen"/>ther ſupplyes from thee, that wee may be ena<g ref="char:EOLhyphen"/>bled thoſe few minuts wee have to live, that thou wouldeſt ſtill be with us, and this we begg for Jeſus Chriſts ſake, <hi>Amen</hi>
+               </p>
+               <pb facs="tcp:59215:15"/>
+               <p>After their Speeches and Prayers ended, the Executioner cleared the Cart of the reſt of the people who were gotten in, and pulled downe their ſeveral Caps over their Eyes, and upon the lifting up their hands the Cart was drawn away, and, which was wondred at, without any ſhout at all.</p>
+               <p>They all hung near about a quarter of an hour; the firſt that was Cut down was Colonel <hi>Barkſtead,</hi> who was quartered according to the Sentence, the other two hanging all the while.</p>
+               <p>The next Cut down was Col. <hi>Okey, Miles Corbett</hi> hanging ſtill, who after Colonel <hi>Okey</hi> was Quartered had the like Execution done upon him, according to the Sentence.</p>
+               <p>Their ſeveral Quarters were brought back to <hi>Newgate</hi> about 5, a Clock in the afternoon to be Boyled.</p>
+            </div>
+            <div type="reflection">
+               <p>THus ended they, with an apparent Zeal for the Proſperitie of their Na<g ref="char:EOLhyphen"/>tion which themſelves ſo mainly oppoſed, out of cajole to the People, whoſe deteſta<g ref="char:EOLhyphen"/>tion and hatred they were for that very Cauſe: If they build again the things they deſtroyed, what are they? And now when there was no need of their devotion, while all along they have lifted up and ſtretched out their Arms to violence, they lift up their
+<pb facs="tcp:59215:16"/> voices in prayer, that they may be heard of men. For where's one word of repentance for all the miſchief and bloudſhed they have cauſed? It is inſenſible to believe theſe fine Ejaculations for Pietie, while there appears no ſenſe of any publique ſin. Indeed Col. <hi>Okey</hi> ſaid in Scripture language <hi>Whoſe Aſſe or Oxe have I taken?</hi> But he rec<g ref="char:EOLhyphen"/>koned without his Hoſt; whom hath not he by aſſiſting the Rebellion plundered and undone? So far are they from making a<g ref="char:EOLhyphen"/>mends, or acknowledging their publique injuſtice in ſpoyles and rapines of his Ma<g ref="char:EOLhyphen"/>jeſties good Subjects, that they expoſtulate even concerning private injuries.— Such as devour Widows Houſes and make long Prayers, But let the <hi>Vae</hi> paſſe. One thing alſo is very obſervable; they agree almoſt to a word in ſpeeches and prayer as to the ſenſe, and dye of the Congregational per<g ref="char:EOLhyphen"/>ſwaſion, yet before this time at Conſtant and irreconcileable feud each of the 3. to other: like <hi>Pilate</hi> and <hi>Herod</hi> they will joyn and unite in this Crime againſt the King,
+<pb facs="tcp:59215:16"/> though ſevered all along before and perſe<g ref="char:EOLhyphen"/>vere unanimous in that. In ſum, Poſterity will never believe men could die at this rate, who have ſeen and occaſioned ſo much miſery to this Nation by that onely fatal Treaſon againſt the Kings Life; if any <hi>Machiavel</hi> of them can aſcribe any other Cauſe for our late Confuſions, ſomewhat might be ſaid in the behalf of this obſti<g ref="char:EOLhyphen"/>nacie: but when they themſelves confeſſe the ill conſequences thereof (and the effect beſt ſhews the Cauſe) and yet ſlubber over and hide their iniquity, what ſhall any ra<g ref="char:EOLhyphen"/>tional man think of the eſtate of theſe men; but leaving that to the ſupreme Judgment, let us Conſider what they have ſaid, a little neerer, and we ſhall find the Impoſture.</p>
+               <p>It is an unwelcome undertaking to any man, to diſpute with Dead mens words, becauſe it approaches the vanity <hi>of fighting with ſhadows,</hi> and from whence no reſult or agreement can be expected, or ſatisfac<g ref="char:EOLhyphen"/>tion given or received; and beſides, it may be an imputation of in humanity: But be<g ref="char:EOLhyphen"/>cauſe in theſe fore-going Papers, there is
+<pb facs="tcp:59215:17"/> nothing new, and nothing more to be looked from of any of thoſe people, (for it is evident they are agreed in their <hi>Opinions,</hi> at their Execution, as they were at the <hi>Sentence</hi> of his Majeſty;) This was thought not only requiſite, nor uncharita<g ref="char:EOLhyphen"/>ble to the memory of theſe men, but a bounden duty to the Juſtice of the Laws, as well as to the Divine Vengeance, who ſignally triumphs in theſe mens ends, to ſhew to the world the moſt parrallel Ex<g ref="char:EOLhyphen"/>ample of <hi>Achitophel,</hi> in that the Counſells of theſe men againſt the King, and for their own ſafety, like their words here following, are of no faith, ſecurity, or credit.</p>
+            </div>
+         </div>
+         <div type="speeches">
+            <pb n="1" facs="tcp:59215:17"/>
+            <head>
+               <hi>Some Due and Sober</hi> ANIMADVERSIONS ON THESE SPEECHES.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not the meaning of this Poſtill, or obſervations of theſe perſons Speeches, to make dirt of their duſt, by aſperſing them or laying to their charge any more, then what their own Confeſſion hath impli<g ref="char:EOLhyphen"/>citely declared: but to ſolve thoſe riddles and ambiguity of Expreſ<g ref="char:EOLhyphen"/>ſion, which is uſed throughout theſe dying and their funeral Orations.</p>
+            <p>Whether it be the fate of theſe men, as it was of thoſe of <hi>Babel,</hi> to be confounded in their language as they here ta their Death, which will be evident by the enſuing Notes; or to be divided in their minds, as before the King's moſt miraculous Reſtitution was moſt apparent; or, to be joyned together in their end perſiſting in the ſame hardneſſe of heart and ſtrange ſcelerate combina<g ref="char:EOLhyphen"/>tion of not expreſſely acknowledging their guilt con<g ref="char:EOLhyphen"/>cerning the King; let the Reader judge by what hath already paſſed in their Hiſtory of Life and Death, and what is added thereunto in the death of theſe men.</p>
+            <p>For juſt as the war began with a riddle ſo in theſe Bou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tefe us, and great abbettors of it doth it expire. Nay, the
+<pb n="2" facs="tcp:59215:18"/> very doubtful Oracle of the Times for King and Parli<g ref="char:EOLhyphen"/>ment, is here brought into credit again; and according to that equivocation the whole drift of their Speeches is guided; that Satan may ſhew and aſſert the Scripture to his advandage, that <hi>Rebellion is worſe than witchcraft.</hi>
+            </p>
+            <p>Not any perſon of thoſe Regicides hath yet come to the point, when the whole world hath proclaimed it the greateſt villany in the world nay, when themſelves, eſpe<g ref="char:EOLhyphen"/>cially theſe, had here by <hi>circumlocution</hi> and about-ways ſaid as much, (witneſs that of <hi>Corbats— It is the Honour of Proteſtants to be obedient to the known Laws</hi>) as amounts to it. But either through the extreme wickedneſs and impiet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the fact, of which for their pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they muſt not acknowl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge themſelves as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f them<g ref="char:EOLhyphen"/>ſelves guilty, (as Hypocrime is one of the Devil's lon<g ref="char:EOLhyphen"/>geſt poſſeſſions) or elſe, out of infatuation and juſt judge<g ref="char:EOLhyphen"/>ment of God upon them, that as they have ſo deſperately and wilfully ſinned, they ſhould as fooliſhly perſiſt in it, it ſo happens that none have given that Glory to God and juſtice to the world, as to acknowledge any thing in that heinous matter ſave their pretended ignorance, and that too, by way of excuſe to men, who are ſubject to frailty, and therefore with whom it may paſs for a plea, but not to the avenger of blood, whom they have thought to illude with the ſame defence.</p>
+            <p>If this appears not to all men from the precedent, and this late Execution of the ſame Complices in that Guilt, more particularly in this laſt, the Animadvertor thinks, that the crime hath a Curſe upon it like that of <hi>Cains,</hi> to wander ſtill in uncertainty, to be a reprobate flagitiouſ<g ref="char:EOLhyphen"/>neſs which yet none muſt or can wound or ſtrike, though ſtill it be as odious as ever.</p>
+            <p>For herein, in theſe Speeches, as firſt of Colonel <hi>Okey,</hi> we ſhall find words able to Condemn a Parliament par<g ref="char:EOLhyphen"/>taker, but for the very firſt years guilt of the War, they are theſe, <hi>I leave this to all my</hi> Brethren <hi>that they would wait in their places, and ſee the</hi> Salvation of God <hi>rather than deliver themſelves by any indirect means. —
+<pb n="3" facs="tcp:59215:18"/> If his Majeſty had given me my life, or had I come in with the reſt of the members, I would have lived quietly, and rather ſuffered any thing, then done any thing againſt the known LAW, — I would have rather have ſuffered then taken any indirect ways.</hi> Will not the world wonder to hear ſuch words? If theſe Speeches ſhould be Printed in For<g ref="char:EOLhyphen"/>raign Countries, they would never be able to diſtinguiſh or underſtand the meaning.</p>
+            <p>The known Law of <hi>England</hi> is not like their <hi>Good Old Cauſe</hi> that varied every day, and was tuned by I know not what inſtruments: Every man knew his Duty and Station by that, and nothing but Poverty and Pride inſtructed men to forſake them. Out of his own mouth, this is enough, where the Law is quoted to as much benefit to him and his Party, as the Devil once did the Scripture.</p>
+            <p>That they agree in this miſtaken (though well applyed) point, (I will not here cite all Colonel <hi>Okey's</hi> paſſages to this matter, but reſerve them till anon) See Maſter <hi>Cor<g ref="char:EOLhyphen"/>bet, — Many Sects and Hereſies have riſen in our days, and God hath appeared againſt them. — I deſire</hi> his Majeſty <hi>that now rules as he rules from God, ſo he may rule for God. — When the buſineſs [the King's Murder] was mentioned, I ſpake againſt it.</hi> What Contradictions are here? He appears to be and approves himſelf of the Congregational way, that allows thoſe Sects, and proſpered by them, and thinks ſo to riſe again. He acknowledgeth the King ruleth <hi>from</hi> God, not from the people, yet grieveth not that he murdered his moſt God-like Father. He confeſ<g ref="char:EOLhyphen"/>ſeth a ſcruple, nay his averſneſs, at the firſt mentioning of this murther in the <hi>Houſe</hi> or <hi>Juncto</hi> of <hi>Commons,</hi> yet is not ſorry at all after the bloody perpetration. See Colonel <hi>Berkstead. — As to the Cauſe God hath owned it — As to the Government as now it is, I have and ſhall as long as I have breath pray for it. — I was no Contriver in the murder of the King.</hi> Seriouſly ſuch abſurdities as theſe are would become no crime but this, for ſhould an ordinary male<g ref="char:EOLhyphen"/>factour have ſaid ſo, they would have judged him fit onely for <hi>Bedlam.</hi> Firſt the Good Cauſe is juſtified, that's the
+<pb n="4" facs="tcp:59215:19"/> Major, <hi>God hath owned it,</hi> as it was the <hi>Canting</hi> term in all their ſucceſſes, and which <hi>Needham</hi> the great Friend of this Perſon hath uſed in every Pamphlet. That's not yet done with, they will adhere to that ſtill, there's no pitty to be had from any, but ſuch as were Complices in that. Next, as to the Government <hi>he hath, and ſhall as long as he lives pray for it.</hi> The time is not ſet when he begun, it is determined when it ſhall end: And now he will pray as long as he lives; But why not this before, or elſe why now? This Government was the ſame which he endea<g ref="char:EOLhyphen"/>voured to extirpate, and our late bleſſed Soveraign's ver<g ref="char:EOLhyphen"/>tues and goodneſs as great (pardon this juſt Compariſon) as any Prince's living. What new incongruous ſtrange kindneſs and affection is this of a ſudden? Reader be not partial, Theſe words are his own, not foyſted in, or dis<g ref="char:EOLhyphen"/>joynted from the entire ſenſe preceeding, as upon the review you will find.</p>
+            <p>And then for a Corollary or Concluſion, <hi>He was no con<g ref="char:EOLhyphen"/>triver of the King</hi>'s <hi>Death.</hi> This is a tacite confeſſion of his guilt, becauſe he would ſo ward the imputation of it; he ſeems to diſallow it, in ſaying he Contrived it not, he appears to have liked it in that he ſealed it. 'Tis the ſame thing when a piece of work paſſeth through many hands, and is finiſhed by another, for that man to ſay he medled not with it: yet certainly Col. <hi>Berkstead,</hi> a man of that <hi>Touſt,</hi> as he ſaith here of himſelf, could not but know what was a doing from the time of that Contrivance, as he terms it; if he conſented not to the firſt beginnings: which may well be preſumed from thoſe endearments and neerneſs of <hi>Cromwell,</hi> and he afterwards: which may mind the Reader of a paſſage betwixt them; One Time ſome Gentlemen coming about buſineſs to this Colonel, then Lieutenant of the Tower, and having ſtayed in Ex<g ref="char:EOLhyphen"/>pectation of an Anſwer, which they were Promiſed: He at laſt came out in haſt and told them, that now he could not tarry by any means for that the Protectour had ſent for him, with this word, that <hi>he would not ſtir one foot from the place where he ſtood till he came to him.</hi> Beſides may other
+<pb n="5" facs="tcp:59215:19"/> mutual kindneſſes betwixt them, of which there may be occaſion to ſpeak hereafter.</p>
+            <p>It is time now to conſider theſe perſons and their Spee<g ref="char:EOLhyphen"/>ches more particularly; wherein not to follow the order of their Sledges or their precedency in their way thither, and becauſe Col. <hi>Okey</hi> both for the priority and length of of his Speech which comprehends moſt of what the other ſaid doth require it, we will conſider him firſt, with this proteſtation, that the Animadverter (with many more ſe<g ref="char:EOLhyphen"/>rious perſons) is ſorry the Col. hath given this only occa<g ref="char:EOLhyphen"/>ſion to rake in his aſhes, for that he will not deny him his p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſonal worth, which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>deed for true valour was very eminent. But all thoſe Jewells are buryed in a Dunghill, where a Hens foot not this Pen muſt ſcrape for them.</p>
+            <p>It is obſervable in him, that he came nearer the purpoſe then any of the reſt, did confeſs, from whence the deſign<g ref="char:EOLhyphen"/>ing of the Subverſion of the Goverment came, and what was the original of the Kings death, <hi>viz.</hi> ſome mens Aims to make themſelves great; but whether this was not from ſome grudge to them, being the ſame with <hi>Harriſon's</hi> de<g ref="char:EOLhyphen"/>fence, that he had ſnared nothing by the Revolution, is thought no great a queſtion. For conſider him from the riſe of the War, of ſo mean and deſpicable a Fortune, and ſo unfit to reform any thing but his own condition by his Sword, and no way remarkable for any Zeal, ſave that of mony, but for that, that he was bred 16. years in the Diſcipline of our purer times, when ſuch Expreſſions and Countenances of Religion and Piety, were as neceſ<g ref="char:EOLhyphen"/>ſary as a Colonels Pay: he had never been ſo throughly verſed in the <hi>Concerns</hi> of gainful Godlineſſe. And it will and muſt ſeem a Paradox to all knowing-men, for per<g ref="char:EOLhyphen"/>ſons to become truly devout in an Army, which certain<g ref="char:EOLhyphen"/>ly, for Perjuries, Sacriledge, Diſloyalty, and Hypocri<g ref="char:EOLhyphen"/>ſies, was the moſt notorious in all ages.</p>
+            <p>This is mentioned the rather, becauſe he ſo vehemently declaims againſt the vices of theſe times, and preſſeth the practice of, and living up of the Goſpel; and very nota<g ref="char:EOLhyphen"/>ble is that place therein, which he hath cited for his
+<pb n="6" facs="tcp:59215:20"/> juſtification of his rebelling againſt the King. His words with thoſe are theſe, — I am juſtified to the Cauſe, <hi>as the Parents of him that was born blind, being asked how his ſight came, ſaid, he is of age, let him ſpeak for himſelf;</hi> ſo ſay I. For here's another miracle, his eyes are now ope<g ref="char:EOLhyphen"/>ned too, he begins to ſee neer at hand, <hi>he ſees Trees and Men,</hi> but ſo blind was he before, that he could ſee nothing. He now ſees the King is to be prayed for, and he confeſ<g ref="char:EOLhyphen"/>ſeth he hath done it a good while, but he could not ſee afar off to prevent (I will not ſay) everlaſting Darkneſſe, by a dutiful ſubmiſſion to his late Majeſty.</p>
+            <p>'Tis to be confeſſed and deplored that the Sins of the Times are great, and ſo much the worſe, that they are juſtly cenſured and taxed by ſuch men as theſe, whom the reprehended condemn as the moſt perdite ſort of people in the world. Yet notwithſtanding twas a very remarkable &amp; ſomething revengeful kind of cenſure in that time &amp; aſſembly; and the after words, that <hi>England with ſuch ſins could not ſtand</hi> 3 <hi>years,</hi> was a kind of an Angry Prophetical menace, and did ſeem to interpret that he would have it ſo; but for his 3 Years prophecy of Deſolation, we may reckon them with the 3 days of <hi>Harriſon</hi>'s Reſurrection, and our late poſterity may read them 300. years hence, with old mother <hi>Shipton</hi> and Father <hi>Merlin.</hi>
+            </p>
+            <p>He ſeems indeed very ingenuous in one place, and as clear, where he ſaith theſe words, <hi>You ſee we have had many troubles, &amp;c. and there was a vacancy to a ſingle Perſon a great while, and then the Nation earneſtly deſired Him who now reigneth, and I wiſh he may reign gloriouſly for ever.</hi> Again he ſaith, <hi>I am afraid the bloud that hath been ſhed hath not thoſe Returns for which the War was begun;</hi> and in ano<g ref="char:EOLhyphen"/>ther place adviſeth all men to <hi>be obedient and ſubmit to the King;</hi> and laſtly prayes God <hi>to ſcatter them that delight in War;</hi> In which good words and prayer we alſo will con<g ref="char:EOLhyphen"/>clude with him, as more deſirous and concerned in that Harmony of Peace, leaving the diſcord of his other words, which are quite contrary to theſe, (as <hi>Saul</hi> was mad when the Muſick ceaſed) to ſuch, who like <hi>Qua<g ref="char:EOLhyphen"/>kers</hi>
+               <pb n="7" facs="tcp:59215:20"/> delight in, and can relliſh nothing but abſurdities.</p>
+            <p>Next let us glean after <hi>Miles Corbet;</hi> one that alſo pre<g ref="char:EOLhyphen"/>tends no malice, and a ſort of ignorance to the Kings Death, and yet ſaith be had been a Parliament man in all the Parliaments of the late King: where by reaſon thereof; he muſt have often took the Oath of Alleigance; could not but be well verſed in the diſpute of the Prerogative, which he knew was aſſerted and maintained by the Laws; and likewiſe knew the Conſtitution of Parliaments, and what Power and Juriſdiction each Eſtate had, he acknow<g ref="char:EOLhyphen"/>ledgeth the mercy of his Majeſties Reſtitution to his peo<g ref="char:EOLhyphen"/>ple, and that private Intereſts ſhould give way to publick; yet he comes to the vomit again, owns a Juncto of the Commons for a lawfull Authority, ſaith he will not juſtifie the Kings death, and yet clans in a Salvo and Reſervation to pleaſe his party — <hi>becauſe he will not offend others.</hi> So that in effect he ſaid nothing, and leaves a good <hi>inuen<g ref="char:EOLhyphen"/>do</hi> to the Faction, to think he would have ſpoke our, if he might have been permitted. But Conſider a little further, for all his great ſhew of Piety and you ſhall find him ano<g ref="char:EOLhyphen"/>ther man. This is that <hi>Corbet</hi> which was Chearman to the Committee of Examinations, the great Pryer into the Lan<g ref="char:EOLhyphen"/>ſes of the Government, and the Ruins of the Kingdom, beſides, many hundred Families, without any more adoe then a cloſe illegal order from that Committee were quite undone. Examination ſerving for Tryal, Sentence, and Execution, yet Mr. <hi>Corbet</hi> hath legally underwent them all, being tryed by a due courſe of Law, as he himſelf ac<g ref="char:EOLhyphen"/>knowledged. This is (if we ſaid no more) he that mur<g ref="char:EOLhyphen"/>dered the beſt and moſt vertuous Prince in <hi>Europe,</hi> and who afterwards ſo tyrannouſly oppreſſed the people in <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> who have ſpent ſo ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y groans for themſelves, that they cannot ſpare him an <hi>Oh hone:</hi> And that you may per<g ref="char:EOLhyphen"/>fectly know what ſort of Chriſtian he was, it is he whoſe moſt known name was <hi>Corbet the Jew.</hi>
+            </p>
+            <p>This almoſt ſpent diſcourſe will beſtow its laſt effort upon languiſhing <hi>Baxter,</hi> a kind of Prodigy of Fortune, yet a great admirer of Providence, though he rever talkt
+<pb n="8" facs="tcp:59215:21"/> leſſe of it then here. His Bottel was his prompter, and he was wiſe to hear the others ſpeak before him, for elſe he might have ſaid nothing at all but that he was ſick and could not; however it amounts to very little more, being a meer Crambe or repetition of what they ſpoke. He in<g ref="char:EOLhyphen"/>ſiſted mainly upon his Comfort, it is ſuppoſed he meant his Cordial, and the <hi>Spirit</hi> of Life, not of Grace, for that ne<g ref="char:EOLhyphen"/>ver appeared in any of his actions, they were ſo impious and unjuſt, eſpecially to the bails for the Kings Friends. He uſed the ſame unmethodical way as Witches do when they pray backward, not to ſay to the ſame purpoſe, and his Language was as ſignificant to charm his Congregational Brethren. This man hath ſuch a load upon him for his baſe<g ref="char:EOLhyphen"/>neſs, that it is in vain to charge him with any thing more, and therefore he ought not to be vouchſafed an Anſwer to this unqueſtionable and tranſcendent guilt againſt the King, whoſe blood he mingled with every penny and Pre<g ref="char:EOLhyphen"/>ferment he got.</p>
+            <p>In concluſion, it may be preſumed they knew not what to ſay; as their Crime wanted <hi>precedent,</hi> ſo it wants a <hi>Plea</hi> or defence, and therefore they have recourſe to any thing which ſtuft out with the old ſpecious ſhews of Piety, they think ſtill ſhall deceive the World.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
